@@ -1,0 +1,6 @@
+1. Build the navbar with(Home , About , Skills , Resume , Contact).
+2. Card with My foto and the designation. (with my facebook,twitter,instagram,linkedin handles) 
+3. About tab
+4. skills tab with level of expertise.
+5. My resume in the inbuilt PDF viewer.
+6. Contact Info.
